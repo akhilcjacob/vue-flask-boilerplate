@@ -1,8 +1,8 @@
 {
-  "name": "vue_workshop",
+  "name": "vue-flask-boilerplate",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "Alexander Schwartzberg <aeksco@gmail.com>",
+  "author": "Akhil Jacob <akhilcjacob@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",

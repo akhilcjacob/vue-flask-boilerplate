@@ -8,7 +8,6 @@ cd backend
 FLASK_APP=run.py FLASK_DEBUG=1 flask run 
 
 ```
-
 ## To start the frontend (Vue):
 ```
 cd frontend
@@ -17,7 +16,6 @@ cd frontend
    
 npm start
 ```
-
 ## Viewing the already existing pages:
 * Vue Basic Homepage - http://localhost:8080/#/
 * Vue Ranndom number Reading from api (Flask must be running) - http://localhost:8080/#/hi

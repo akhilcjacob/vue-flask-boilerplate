@@ -7,6 +7,7 @@ Simple boiler plate project built with vue and bootstrap frontend, flask backend
 
 ## To start the frontend (Vue):
 > cd frontend
+> (First time Only) npm install
 > npm start
 
 ## Viewing the already existing pages:

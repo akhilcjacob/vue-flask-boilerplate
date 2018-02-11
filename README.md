@@ -2,13 +2,21 @@
 Simple boiler plate project built with vue and bootstrap frontend, flask backend.
 
 ## To start the backend (Flask):
-> cd backend
->  FLASK_APP=run.py FLASK_DEBUG=1 flask run 
+```
+cd backend
+
+FLASK_APP=run.py FLASK_DEBUG=1 flask run 
+
+```
 
 ## To start the frontend (Vue):
-> cd frontend
-> (First time Only) npm install
-> npm start
+```
+cd frontend
+
+(First time Only) npm install
+   
+npm start
+```
 
 ## Viewing the already existing pages:
 * Vue Basic Homepage - http://localhost:8080/#/
